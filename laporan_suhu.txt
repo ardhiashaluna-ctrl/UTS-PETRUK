@@ -1,0 +1,15 @@
+LAPORAN ANALISIS SUHU HARIAN
+====================
+Rata-rata Suhu: 31.14 derajat
+Suhu Tertinggi: 35 derajat(Kamis
+Suhu Terendah: 28 derajat(Minggu)
+Jumlah Hari Panas: 3 hari
+
+Kategori Suhu Setia:
+Senin: 31 - Normal
+Selasa: 33 - Panas
+Rabu: 29 - Normal
+Kamis: 35 - Panas
+Jumat: 32 - Panas
+Sabtu: 30 - Normal
+Minggu: 28 - Normal
